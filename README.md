@@ -1,16 +1,17 @@
-### Hi there 👋
-
-<!--
-**MadjikDotPng/MadjikDotPng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table align="center">
+  <tr>
+    <td>
+    <h1>😺 Hi! My name is Kota.</h1>
+    <p>I am a part of...</p>
+    <ui>
+      <li><a href="https://github.com/MercuryWorkshop">Mercury Workshop</a>,</li>
+      <li><a href="https://github.com/InterstellarNetwork">Interstellar</a>,</li>
+      <sub>and...</sub>
+      <li><a href="https://github.com/NebulaServices/">Nebula</a>!</li>
+    </ui>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=MadjikDotPng&theme=tokyonight">
+    </td>
+    <td><img style="height:400px;" src="https://github.com/MadjikDotPng/MadjikDotPng/assets/89202835/928826b1-c89a-436c-a734-f154d112aeb8"><br><sub>my pookie</sub></td>
+  </tr>
+ </table>
