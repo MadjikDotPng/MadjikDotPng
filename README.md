@@ -4,7 +4,6 @@
     <h1>😺 Hi! My name is Kota.</h1>
     <p>I am a part of...</p>
     <ui>
-      <li><a href="https://github.com/MercuryWorkshop">Mercury Workshop</a>,</li>
       <li><a href="https://github.com/InterstellarNetwork">Interstellar</a>,</li>
       <sub>and...</sub>
       <li><a href="https://github.com/NebulaServices/">Nebula</a>!</li>
