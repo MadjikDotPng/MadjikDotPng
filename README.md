@@ -4,7 +4,7 @@
     <h1>😺 Hi! My name is Kota.</h1>
     <p>I am a part of...</p>
     <ui>
-      <li><a href="https://github.com/InterstellarNetwork">Interstellar</a>,</li>
+      <li><a href="https://github.com/InterstellarNetwork">Interstellar</a></li>
     </ui>
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=MadjikDotPng&theme=tokyonight">
