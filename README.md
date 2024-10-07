@@ -6,7 +6,7 @@
     <ui>
       <li><a href="https://github.com/MercuryWorkshop">Mercury Workshop</a>,</li>
       <li><a href="https://github.com/InterstellarNetwork">Interstellar</a>,</li>
-      <sub>and...</sub>
+      <p>And am still a part of</p>
       <li><a href="https://github.com/NebulaServices/">Nebula</a>!</li>
     </ui>
     <br>
