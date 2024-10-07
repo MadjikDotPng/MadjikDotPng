@@ -1,8 +1,8 @@
 <table align="center">
   <tr>
     <td>
-    <h1>😺 Hi! My name is Kota.</h1>
-    <p>I have contributed to...</p>
+    <h1>😺 Hi! My name is Koaku</h1>
+    <p>I have formerly been a part of</p>
     <ui>
       <li><a href="https://github.com/MercuryWorkshop">Mercury Workshop</a>,</li>
       <li><a href="https://github.com/InterstellarNetwork">Interstellar</a>,</li>
