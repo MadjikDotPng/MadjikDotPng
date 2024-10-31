@@ -2,7 +2,7 @@
   <tr>
     <td>
     <h1>😺 Hi! My name is Madjik</h1>
-    <p>I have formerly been a member of <a href="https://github.com/MercuryWorkshop">Mercury Workshop</a><br>and primarily working on the earlier versions of <a href="https://github.com/MercuryWorkshop/anuraOS">AnuraOS</a>.
+    <p>I have formerly been a member of <a href="https://github.com/MercuryWorkshop">Mercury Workshop</a>,<br>primarily working on the earlier versions of <a href="https://github.com/MercuryWorkshop/anuraOS">AnuraOS</a>.
       <br>I was also the lead designer for <a href="https://github.com/InterstellarNetwork">Interstellar</a>'s v5 UI,
       <br>
       <p>and I am still a member of the <a href="https://github.com/NebulaServices/">Nebula</a> staff team!</p>
