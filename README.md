@@ -7,10 +7,6 @@
       <br>
       <p>and I am still a member of the <a href="https://github.com/NebulaServices/">Nebula</a> staff team.</p>
     <br>
-    <p>I am the creator of</p>
-    <ul>
-      <li><a href="https://caspar621.com/caspar">caspar621.com</a></li>
-    </ul>
       <p>I am also the owner of Stargaze Collective</p>
     </td>
     <td><img style="height:400px;" src="https://static.wikia.nocookie.net/shikanoko-nokonoko-koshitantan/images/3/39/Meme_Manga.png/revision/latest?cb=20240727102034"><br><sub>Bashame eating rice like a boss.</sub></td>
